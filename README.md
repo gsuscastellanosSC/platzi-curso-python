@@ -12,3 +12,9 @@ Para correr el juego debes segur las siguientes instrucciones:
 cd game
 python3 main.py
 ```
+
+# Comandos generales
+* Ver todo el Arbol de dependencias:
+    ```sh
+    pip3 freeze
+    ```
